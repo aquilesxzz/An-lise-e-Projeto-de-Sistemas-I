@@ -1,0 +1,14 @@
+LISTA DE REQUISITOS - QUESTÃO 10 (SALA DE REUNIÃO)
+
+REQUISITOS FUNCIONAIS (RF):
+RF01: O sistema deve cadastrar salas de reunião informando nome/número e capacidade de lugares.
+RF02: O sistema deve cadastrar funcionários com nome, cargo e ramal.
+RF03: O sistema deve permitir o agendamento de reuniões vinculando sala, funcionário (responsável), data, horário de início e assunto.
+RF04: O sistema deve permitir a realocação de reuniões (alterar sala, data ou horário).
+RF05: O sistema deve consultar salas livres em uma determinada data e faixa de horário (Atributo Derivado).
+
+REQUISITOS NÃO-FUNCIONAIS (RNF):
+RNF01: A aplicação deve ser desenvolvida em Python com Streamlit.
+RNF02: A visualização deve simular o formato de grade/planilha apresentado no cenário.
+RNF03: O diagrama de classes deve focar nas multiplicidades e associações entre as entidades.
+RNF04: O diagrama de classes deve ser gerado em UML via PlantUML.
