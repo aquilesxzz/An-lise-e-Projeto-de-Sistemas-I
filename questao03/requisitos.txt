@@ -1,0 +1,12 @@
+LISTA DE REQUISITOS - QUESTÃO 03 (BONECO EM MOVIMENTO)
+
+REQUISITOS FUNCIONAIS (RF):
+RF01: O sistema deve permitir dar um nome ao boneco.
+RF02: O sistema deve controlar as coordenadas X e Y do boneco.
+RF03: O sistema deve permitir alterar a direção do boneco (Cima, Baixo, Direita, Esquerda).
+RF04: O sistema deve possuir métodos para mover o boneco, atualizando suas coordenadas com base na direção atual.
+
+REQUISITOS NÃO-FUNCIONAIS (RNF):
+RNF01: A aplicação deve ser desenvolvida em Python com Streamlit.
+RNF02: A interface deve exibir visualmente a posição do boneco em um plano ou área de feedback.
+RNF03: O diagrama de classes deve ser gerado em UML via PlantUML.
