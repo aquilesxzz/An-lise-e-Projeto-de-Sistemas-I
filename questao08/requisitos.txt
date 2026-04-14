@@ -1,0 +1,12 @@
+LISTA DE REQUISITOS - QUESTÃO 08 (Coleção de CD’s)
+
+Requisitos Funcionais (RF):
+RF01 - O sistema deve permitir cadastrar CDs
+RF02 - O sistema deve armazenar artista, título e ano
+RF03 - O sistema deve listar todos os CDs
+RF04 - O sistema deve permitir buscar CDs por artista
+RF05 - O sistema deve exibir o total de CDs cadastrados
+Requisitos Não Funcionais (RNF):
+RNF01 - O sistema deve ser simples de usar
+RNF02 - O sistema deve ser leve e rápido
+RNF03 - O sistema deve funcionar em ambiente web
