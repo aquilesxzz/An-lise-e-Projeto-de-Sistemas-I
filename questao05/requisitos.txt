@@ -1,0 +1,13 @@
+LISTA DE REQUISITOS - QUESTÃO 05 (Gastos Diários)
+
+Requisitos Funcionais (RF):
+RF01 - O sistema deve permitir cadastrar gastos
+RF02 - O sistema deve armazenar tipo, data, valor e forma de pagamento
+RF03 - O sistema deve calcular o total mensal
+RF04 - O sistema deve agrupar gastos por tipo
+RF05 - O sistema deve agrupar gastos por forma de pagamento
+RF06 - O sistema deve exibir relatórios mensais
+Requisitos Não Funcionais (RNF):
+RNF01 - O sistema deve ter interface simples
+RNF02 - O sistema deve processar dados rapidamente
+RNF03 - O sistema deve ser acessível via w
