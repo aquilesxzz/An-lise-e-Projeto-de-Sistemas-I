@@ -1,0 +1,13 @@
+LISTA DE REQUISITOS - QUESTÃO 01 (CONTA DE LUZ)
+
+REQUISITOS FUNCIONAIS (RF):
+RF01: O sistema deve permitir o cadastro dos dados da conta (Data Leitura, Nº Leitura, KW Gasto, Valor a Pagar, Data Pagamento e Média Consumo).
+RF02: O sistema deve exibir todos os registros cadastrados em formato de tabela.
+RF03: O sistema deve calcular e destacar o mês/registro de menor consumo de KW.
+RF04: O sistema deve calcular e destacar o mês/registro de maior consumo de KW.
+
+REQUISITOS NÃO-FUNCIONAIS (RNF):
+RNF01: A aplicação deve ser desenvolvida utilizando a linguagem Python.
+RNF02: A interface gráfica deve ser construída com a biblioteca Streamlit.
+RNF03: O armazenamento de dados deve ser mantido em memória (session_state) durante a execução.
+RNF004: O diagrama de classes deve ser gerado em UML via PlantUML.
