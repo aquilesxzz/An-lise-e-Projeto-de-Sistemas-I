@@ -1,0 +1,14 @@
+LISTA DE REQUISITOS - QUESTÃO 07 (LISTA DE COMPRAS)
+
+REQUISITOS FUNCIONAIS (RF):
+RF01: O sistema deve permitir o cadastro de produtos com nome, unidade de medida, quantidade prevista para o mês, quantidade efetiva de compra e preço estimado.
+RF02: O sistema deve calcular o valor estimado de compra para cada item (Preço Estimado * Qtd. Compra).
+RF03: O sistema deve permitir a atualização do preço estimado de cada produto individualmente.
+RF04: O sistema deve exibir uma planilha consolidada com todos os itens.
+RF05: O sistema deve calcular o total geral da lista de compras (Atributo Derivado).
+
+REQUISITOS NÃO-FUNCIONAIS (RNF):
+RNF01: A aplicação deve ser desenvolvida em Python com Streamlit.
+RNF02: A interface deve permitir a edição rápida das quantidades efetivas de compra.
+RNF03: O diagrama de classes deve representar a relação entre a Planilha e os Itens de Compra.
+RNF04: O diagrama de classes deve ser gerado em UML via PlantUML.
