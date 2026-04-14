@@ -1,0 +1,13 @@
+LISTA DE REQUISITOS - QUESTÃO 02 (CLASSE TEXTOSAÍDA)
+
+REQUISITOS FUNCIONAIS (RF):
+RF01: O sistema deve permitir a configuração de um texto e seus atributos visuais (tamanho, cor da fonte e cor do fundo).
+RF02: O sistema deve oferecer as opções de cores: preto, branco, azul, amarelo e cinza.
+RF03: O usuário deve poder escolher entre três tipos de componentes de saída: Label, Edit e Memo.
+RF04: O sistema deve renderizar o componente selecionado aplicando as configurações de estilo definidas.
+
+REQUISITOS NÃO-FUNCIONAIS (RNF):
+RNF01: A aplicação deve ser desenvolvida em Python com Streamlit.
+RNF02: A classe TextoSaída não deve ter vínculo de herança com classes visuais nativas (encapsulamento puro).
+RNF03: A visualização dos estilos deve ser simulada através de CSS inline no navegador.
+RNF004: O diagrama de classes deve ser gerado em UML via PlantUML.
