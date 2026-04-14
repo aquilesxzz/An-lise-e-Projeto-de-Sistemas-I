@@ -1,0 +1,14 @@
+LISTA DE REQUISITOS - QUESTÃO 09 (COLEÇÃO DE CD'S - VARIAÇÃO A)
+
+REQUISITOS FUNCIONAIS (RF):
+RF01: O sistema deve cadastrar CDs com informações de título, se é duplo e se é coletânea.
+RF02: O sistema deve permitir o cadastro de Músicos e Músicas.
+RF03: O sistema deve relacionar músicas a cada CD, incluindo o tempo de duração de cada faixa.
+RF04: O sistema deve gerar relatório de CDs por músico.
+RF05: O sistema deve identificar em quais CDs uma determinada música está presente.
+
+REQUISITOS NÃO-FUNCIONAIS (RNF):
+RNF01: A interface Streamlit deve permitir a navegação entre as visões de "Cadastro" e "Relatórios".
+RNF02: Os relacionamentos devem ser tratados como atributos derivados (listas de busca).
+RNF03: O diagrama de classes deve focar na arquitetura das relações e multiplicidades.
+RNF04: O diagrama de classes deve ser gerado em UML via PlantUML.
