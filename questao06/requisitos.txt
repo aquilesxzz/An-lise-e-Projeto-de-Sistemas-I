@@ -1,0 +1,14 @@
+LISTA DE REQUISITOS - QUESTÃO 06 (COMANDA ELETRÔNICA)
+
+REQUISITOS FUNCIONAIS (RF):
+RF01: O sistema deve permitir a abertura de uma comanda através de uma numeração única.
+RF02: O sistema deve permitir o registro de produtos na comanda, informando nome, valor unitário e quantidade.
+RF03: O sistema deve calcular o subtotal de cada item (valor unitário * quantidade).
+RF04: O sistema deve calcular o valor total da comanda (Atributo Derivado).
+RF05: O sistema deve permitir a finalização da comanda, exibindo o extrato detalhado das compras.
+
+REQUISITOS NÃO-FUNCIONAIS (RNF):
+RNF01: A aplicação deve ser desenvolvida em Python com Streamlit.
+RNF02: A interface deve separar a área de "Lançamento de Itens" da área de "Fechamento de Caixa".
+RNF03: O diagrama de classes deve representar a composição entre Comanda e Itens.
+RNF04: O diagrama de classes deve ser gerado em UML via PlantUML.
