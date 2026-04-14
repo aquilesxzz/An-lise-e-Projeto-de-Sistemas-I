@@ -1,0 +1,17 @@
+LISTA DE REQUISITOS - QUESTÃO 04 (Horário de Remédios)
+
+Requisitos Funcionais (RF):
+RF01 - O sistema deve permitir cadastrar um remédio
+RF02 - O sistema deve armazenar nome do usuário
+RF03 - O sistema deve calcular a data final do tratamento
+RF04 - O sistema deve sugerir horários para tomar o remédio
+RF05 - O sistema deve permitir o usuário escolher horários
+RF06 - O sistema deve gerar uma planilha diária de horários
+RF07 - O sistema deve exibir os horários do dia
+RF08 - O sistema deve reorganizar horários em caso de atraso
+
+Requisitos Não Funcionais (RNF):
+RNF01 - O sistema deve ter interface simples
+RNF02 - O sistema deve rodar em ambiente web
+RNF03 - O sistema deve responder rapidamente (<2s)
+RNF04 - O sistema deve ser fácil de usar em smartphone
